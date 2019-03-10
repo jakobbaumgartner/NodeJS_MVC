@@ -1,0 +1,1 @@
+Razporeditev controllers datotek in logike je kinda odvisna od nas. 
